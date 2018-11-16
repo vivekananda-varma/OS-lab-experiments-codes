@@ -18,7 +18,7 @@ Codes:-
        - OPTIMAL
        - LFU
 9) Memory allocation strategies
-       - Best fit
+       - best fit
        - worst fit
        - first fit
 10) disk allocation strategies
