@@ -16,7 +16,6 @@ Codes:-
        - FIFO
        - LRU
        - OPTIMAL
-       - LFU
 9) Memory allocation strategies
        - best fit
        - worst fit
